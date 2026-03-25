@@ -4,12 +4,12 @@ Análise de E-commerce com SQL
 
 Este projeto tem como objetivo analisar dados de um e-commerce utilizando SQL para gerar insights de negócio.
 
-- Tecnologias utilizadas
+Tecnologias utilizadas
 
 * SQLite
 * SQL
 
-- Estrutura do banco
+Estrutura do banco
 
 O banco de dados é composto por 4 tabelas:
 
@@ -18,7 +18,7 @@ O banco de dados é composto por 4 tabelas:
 * pedidos
 * itens_pedido
 
-- Análises realizadas
+Análises realizadas
 
 * Receita total da loja
 * Cliente que mais gastou
