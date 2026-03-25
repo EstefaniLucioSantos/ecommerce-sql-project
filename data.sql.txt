@@ -1,0 +1,21 @@
+INSERT INTO clientes VALUES
+(1, 'Ana', 'São Paulo'),
+(2, 'Bruno', 'Rio de Janeiro'),
+(3, 'Carlos', 'Belo Horizonte');
+
+INSERT INTO produtos VALUES
+(1, 'Notebook', 'Eletrônicos', 3500),
+(2, 'Mouse', 'Eletrônicos', 100),
+(3, 'Teclado', 'Eletrônicos', 200),
+(4, 'Cadeira', 'Móveis', 800);
+
+INSERT INTO pedidos VALUES
+(1, 1, '2024-01-10'),
+(2, 2, '2024-01-15'),
+(3, 1, '2024-02-01');
+
+INSERT INTO itens_pedido VALUES
+(1, 1, 1, 1),
+(2, 1, 2, 2),
+(3, 2, 3, 1),
+(4, 3, 4, 1);
