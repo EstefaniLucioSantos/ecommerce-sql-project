@@ -25,7 +25,7 @@ Análises realizadas
 * Produto mais vendido
 * Vendas por cidade
 
-- Exemplos de consultas
+Exemplos de consultas
 
 Cliente que mais gastou:
 
